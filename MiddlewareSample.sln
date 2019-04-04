@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareSampleMvc", "MiddlewareSampleMvc\MiddlewareSampleMvc.csproj", "{F6525E50-E771-4A51-BC19-97D8D63359D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareSampleRazor", "MiddlewareSampleRazor\MiddlewareSampleRazor.csproj", "{6E5E4B56-0650-4905-975C-6D2D53D52D72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6525E50-E771-4A51-BC19-97D8D63359D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6525E50-E771-4A51-BC19-97D8D63359D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6525E50-E771-4A51-BC19-97D8D63359D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6525E50-E771-4A51-BC19-97D8D63359D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E5E4B56-0650-4905-975C-6D2D53D52D72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E5E4B56-0650-4905-975C-6D2D53D52D72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E5E4B56-0650-4905-975C-6D2D53D52D72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E5E4B56-0650-4905-975C-6D2D53D52D72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A0D827E-4337-4C06-812C-83EE09198F53}
+	EndGlobalSection
+EndGlobal
